@@ -1,0 +1,49 @@
+html
+{
+    font-family: Georgia;
+}
+#logo , #menu
+{
+    background-color: #63ac74;
+    color: orange;
+    height: 140px;
+    width: 50%;
+    font-size: 160%;
+    text-align: right;
+    float: left;
+}
+#main
+{
+    background-color: #E3F6E7;
+    height: 500px;
+    padding: 20px;
+    float: none;
+    clear: both;
+}
+#first, #second, #third, #fourth
+{
+    background-color: #63AC74;
+    height: 150px;
+    width: 25%;
+    float: left;
+}
+a
+{
+    color: orange;
+    margin: 15px;
+}
+table
+{
+    width: 100%;
+    border: 2px solid green;
+}
+th
+{
+    background-color: #63ac74;
+    color: white;
+}
+.cena
+{
+    text-align: right;
+}
+// qtaz
